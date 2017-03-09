@@ -1,0 +1,3 @@
+interpreter:      C runs lua code that comes from stdin;
+script-executor:  C runs lua code that comes from script;
+In both cases, C calls Lua. In other words, C program is extened by Lua.
